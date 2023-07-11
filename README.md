@@ -15,3 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # login-register-ui
+
+![](https://github.com/codejuni/login-register-ui/blob/main/login_light.png)
+![](https://github.com/codejuni/login-register-ui/blob/main/register_light.png)
+![](https://github.com/codejuni/login-register-ui/blob/main/login_dark.png)
+![](https://github.com/codejuni/login-register-ui/blob/main/register_dark.png)
